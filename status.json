@@ -1,0 +1,5 @@
+{
+ "incidents": [
+  {"date": "2026-11-16", "title": "Updates were slow", "status": "Resolved", "body": "Posts took a few minutes to appear. It's fixed now."}
+ ]
+}
