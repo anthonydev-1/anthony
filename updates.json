@@ -1,0 +1,22 @@
+{
+ "posts": [
+  {
+   "id": "p1",
+   "date": "2026-11-15",
+   "title": "Commissions are open",
+   "body": "Server templates and custom bots are now listed with prices on the commissions page."
+  },
+  {
+   "id": "p2",
+   "date": "2026-11-15",
+   "title": "Tabpad is live",
+   "body": "My notepad app is now online. It has tabs, find and replace, auto-correct, a Markdown preview and autosave, and you can use it right in your browser."
+  },
+  {
+   "id": "p3",
+   "date": "2026-11-15",
+   "title": "New website",
+   "body": "This site is up, with my projects, an About section, commission prices, a privacy policy and terms of use."
+  }
+ ]
+}
